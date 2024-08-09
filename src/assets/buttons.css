@@ -1,0 +1,89 @@
+.start-button {
+    border-color: orange;
+    background-color: black;
+    color: white;
+    font-size: 40pt;
+    border-width: 4px;
+}
+
+.start-button:active {
+    border-width: 3px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .button-container button {
+    flex: 1;
+    margin: 0 5px;
+    width: 25%;
+    border-width: 4px;
+  }
+  
+  .easy-button:hover {
+    color: white;
+    background-color: green;
+  }
+  
+  .easy-button:active {
+    border-width: 3px;
+  }
+  
+  .medium-button:hover {
+    color: black;
+    background-color: orange;
+  }
+  
+  .medium-button:active {
+    border-width: 3px;
+  }
+  
+  .hard-button:hover {
+    color: white;
+    background-color: red;
+  }
+  
+  .hard-button:active {
+    border-width: 3px;
+  }
+  
+  .reset-button {
+    width: 125px;
+    top: 10px;
+    position: relative;
+  }
+  
+  .reset-button:hover {
+    background-color: blue;
+    opacity: 0.6;
+    color: white;
+  }
+  
+  .reset-button:active {
+    background-color: blue;
+    opacity: 1;
+    color: white;
+  }
+  
+  .restart-button {
+    width: 125px;
+    top: 10px;
+    left: 150px;
+    position: relative;
+  }
+  
+  .restart-button:hover {
+    background-color: red;
+    opacity: 0.6;
+    color: white;
+  }
+  
+  .restart-button:active {
+    background-color: red;
+    opacity: 1;
+    color: white;
+  }
