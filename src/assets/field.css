@@ -12,11 +12,11 @@
 
 .upper-wall {
   /*border: 2px solid blue;*/
-  width: 120%;
+  width: 110%;
   height: 10%;
   position: absolute;
   top: 0;
-  left: -10%;
+  left: -5%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,9 +25,9 @@
 .left-wall {
   /*border: 2px solid yeöllow;*/
   width: 10%;
-  height: 120%;
+  height: 110%;
   position: absolute;
-  top: -10%;
+  top: -5%;
   left: 0;
   display: flex;
   justify-content: center;
@@ -38,9 +38,9 @@
 .right-wall {
   /*border: 2px solid green;*/
   width: 10%;
-  height: 120%;
+  height: 110%;
   position: absolute;
-  top: -10%;
+  top: -5%;
   right: 0;
   display: flex;
   justify-content: center;
@@ -50,11 +50,11 @@
 
 .bottom-wall {
   /*border: 2px solid red;*/
-  width: 120%;
+  width: 110%;
   height: 10%;
   position: absolute;
   bottom: 0;
-  left: -10%;
+  left: -5%;
   display: flex;
   justify-content: center;
   align-items: center;
