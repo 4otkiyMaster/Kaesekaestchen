@@ -1,6 +1,10 @@
-# Name
+# Käsekästchen-Spiel
 
-This template should help get you started developing with Vue 3 in Vite.
+Oberfläche in Vue.js, die kann mithilfe Backends ein Spiel "Käsekästchen" ausführen
+
+## How to Install and Run the Project
+
+
 
 ## Recommended IDE Setup
 
