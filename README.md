@@ -4,7 +4,15 @@ Oberfläche in Vue.js, die kann mithilfe Backends ein Spiel "Käsekästchen" aus
 
 ## How to Install and Run the Project
 
+1. Clone the repository:
+```bash
+ git clone https://github.com/yourusername/yourproject.git
+```
 
+2. Install dependencies:
+```bash
+ npm install
+ ```
 
 ## Recommended IDE Setup
 
