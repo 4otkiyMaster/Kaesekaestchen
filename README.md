@@ -19,8 +19,12 @@ Das Spiel endet, wenn alle Kästchen geschlossen sind, und der Spieler mit den m
   - Anzeige des aktuellen Spielers und der Punktzahl aller Spieler
   - Einfache Interaktion mit dem Feld durch Klicken auf die Wand für den Zug und automatische Färbung geschlossenes Kästchens in der Farbe des Spielers, der es geschlossen hat
   - Tasten "Zurücksetzen" um auf Seite mit Spieleinstellungen zurückzugehen und "Neu starten" um geschlossene Wände zu offen und das Spiel mit den gleichen Einstellungen neuzustarten
- 
-![Alt text](public/Einstellungen.png)
+
+### Spieleinstellungsseite
+![Einstellungen](https://github.com/user-attachments/assets/03a43e32-4df5-49ef-a006-537e2ff6a8cb)
+
+### Spielfeldsseite
+![image](https://github.com/user-attachments/assets/50113486-664f-4ecc-b0d6-a93fcc915551)
 
 ## Projekt installieren
 
