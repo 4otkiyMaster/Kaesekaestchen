@@ -19,8 +19,12 @@ Das Spiel endet, wenn alle Kästchen geschlossen sind, und der Spieler mit den m
   - Anzeige des aktuellen Spielers und der Punktzahl aller Spieler
   - Einfache Interaktion mit dem Feld durch Klicken auf die Wand für den Zug und automatische Färbung geschlossenes Kästchens in der Farbe des Spielers, der es geschlossen hat
   - Tasten "Zurücksetzen" um auf Seite mit Spieleinstellungen zurückzugehen und "Neu starten" um geschlossene Wände zu offen und das Spiel mit den gleichen Einstellungen neuzustarten
- 
-![Alt text](public/Einstellungen.png)
+
+### Spieleinstellungsseite
+![Einstellungen](https://github.com/user-attachments/assets/03a43e32-4df5-49ef-a006-537e2ff6a8cb)
+
+### Spielfeldsseite
+![image](https://github.com/user-attachments/assets/50113486-664f-4ecc-b0d6-a93fcc915551)
 
 ## Projekt installieren
 
@@ -58,8 +62,21 @@ Installieren Sie Backend von https://github.com/4otkiyMaster/kk-tournament
 
 - Wenn es alles richtig angestellt ist, können Sie der lokalen Entwicklungsumgebung folgen. Sie sollten dann die Spieleinstellungsseite sehen:
   - Vorkonfigurationstasten - sie helfen schnell konfigurieren ihre Feldgröße
+
+    <img src="https://github.com/user-attachments/assets/ad0ea52d-f89c-40c8-9cdc-4adad01a8ae2" width="400">
+  
   - Eingabezeilen für die Feldgröße - manuelle Angabe der Feldbreite (Count X:) und -höhe (Count Y:)
   - Eingabezeilen für die Spieler - Angabe der Spielernamen
+
+    <img src="https://github.com/user-attachments/assets/26aa3cb2-09c4-49c6-8cfa-8ab6c2045993" width="400">
+
   - Start-Taste
+    
+    <img src="https://github.com/user-attachments/assets/4cd07585-0018-408e-b402-8d64f183a5a6" width="400">
+    
 - Um Spiel zu starten, müssen Sie unbedingt alle Zeilen ausfüllen und auf "Spiel starten" drücken
 - Danach wird das Spielfeld angezeigt, und Sie können bereits Ihre ersten Züge machen, indem Sie auf die Wände klicken
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
